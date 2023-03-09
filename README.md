@@ -3,6 +3,8 @@
 <div align="center">
   <a href="https://github.com/Arthur-Candeia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-candeia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-candeia&theme=cobalt&layout=compact"/>
+    
 </div>
   
  <div style="display: inline_block" align="center"><br>
@@ -12,6 +14,7 @@
   </div>
   
   ##
+  #### Contato &#x2709;
    <a href="https://www.instagram.com/arthur_candeia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-silva-56b836248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
