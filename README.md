@@ -18,6 +18,7 @@
    <img align="center" alt="Arthur-REACT" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
    <img align="center" alt="Arthur-NODEJS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js">
    <img align="center" alt="Arthur-EXPRESSJS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js">
+   <img align="center" alt="Arthur-MONGODB" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
  </div>
   
   ##
