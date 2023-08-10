@@ -19,6 +19,8 @@
    <img align="center" alt="Arthur-NODEJS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js">
    <img align="center" alt="Arthur-EXPRESSJS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js">
    <img align="center" alt="Arthur-MONGODB" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
+   <img align="center" alt="Arthur-POSTGRESQL" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+   <img align="center" alt="Arthur-SEQUELIZE" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize">
  </div>
   
   ##
