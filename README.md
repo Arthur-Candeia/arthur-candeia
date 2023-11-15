@@ -1,9 +1,12 @@
-### Olá, eu sou o Arthur, desenvolvedor fullstack que soluciona suas demandas digitais! 👋💻
+<h3>Desenvolvedor que soluciona suas demandas digitais! 👋💻</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff80&height=180&section=header&text=https://arthur-candeia.com.br/&fontSize=12&fontColor=fff&animation=twink&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Arthur+Candeia;+Sou+desenvolvedor+fullstack;Soluciono+suas+demandas+digitais!;Faça+já+seu+orçamento+grátis!;+https://arthur-candeia.com.br/;+Sou+desenvolvedor+de+software;)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Arthur-Candeia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-candeia&show_icons=true&theme=cobalt&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-candeia&theme=cobalt&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-candeia&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-candeia&theme=dark&layout=compact"/>
     
 </div>
   
@@ -31,4 +34,4 @@
    <a href="https://arthur-candeia.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-candeia-heher-56b836248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/arthur_candeia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   
+
