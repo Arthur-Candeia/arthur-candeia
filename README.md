@@ -24,7 +24,9 @@
    <img align="center" alt="Arthur-EXPRESSJS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js">
    <img align="center" alt="Arthur-MONGODB" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
    <img align="center" alt="Arthur-POSTGRESQL" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+   <img align="center" alt="Arthur-MYSQL" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
    <img align="center" alt="Arthur-SEQUELIZE" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize">
+   <img align="center" alt="Arthur-ELECTRON" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron">
    <img align="center" alt="Arthur-Canva" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva">
    <img align="center" alt="Arthur-Figma" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma">
  </div>
