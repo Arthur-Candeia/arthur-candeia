@@ -27,6 +27,7 @@
    <img align="center" alt="Arthur-MYSQL" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
    <img align="center" alt="Arthur-SEQUELIZE" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize">
    <img align="center" alt="Arthur-ELECTRON" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron">
+   <img align="center" alt="Arthur-SOCKETIO" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.io">
    <img align="center" alt="Arthur-Canva" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva">
    <img align="center" alt="Arthur-Figma" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma">
  </div>
