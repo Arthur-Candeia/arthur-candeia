@@ -1,5 +1,7 @@
 <h3>Desenvolvedor que soluciona suas demandas digitais! 👋💻</h3>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff80&height=180&section=header&text=https://arthur-candeia.com.br/&fontSize=12&fontColor=fff&animation=twink&fontAlignY=35"/>
+<a href="https://arthur-candeia.com.br" target="_blank">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4dff91&text=https://arthur-candeia.com.br&reversal=false&fontColor=e2e2e2&fontSize=20&fontAlignY=40"/>
+</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Arthur+Candeia;+Sou+desenvolvedor+fullstack;Soluciono+suas+demandas+digitais!;Faça+já+seu+orçamento+grátis!;+https://arthur-candeia.com.br/;+Sou+desenvolvedor+de+software;)](https://git.io/typing-svg)
 
