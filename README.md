@@ -20,9 +20,9 @@
    <img align="center" alt="Arthur-GIT" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT">
    <img align="center" alt="Arthur-SASS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS">
    <img align="center" alt="Arthur-BOOTSTRAP" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="BootStrap">
-   <img align="center" alt="Arthur-REACT" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
+   <img align="center" alt="Arthur-REACT" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React / React Native">
    <img align="center" alt="Arthur-NEXT" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next">
-   <img align="center" alt="Arthur-NODEJS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js">
+   <img align="center" alt="Arthur-NODEJS" height="33" width="40" src="https://arthur-candeia.com.br/images/hardskills/nodejs-original.svg" title="Node.js">
    <img align="center" alt="Arthur-EXPRESSJS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js">
    <img align="center" alt="Arthur-FASTIFY" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" title="Fastify">
    <img align="center" alt="Arthur-MONGODB" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
