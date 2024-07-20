@@ -19,7 +19,7 @@
    <img align="center" alt="Arthur-CSS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
    <img align="center" alt="Arthur-GIT" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT">
    <img align="center" alt="Arthur-SASS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS">
-   <img align="center" alt="Arthur-BOOTSTRAP" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="BootStrap">
+   <img align="center" alt="Arthur-TAILWIND" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind">
    <img align="center" alt="Arthur-REACT" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React / React Native">
    <img align="center" alt="Arthur-NEXT" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next">
    <img align="center" alt="Arthur-NODEJS" height="33" width="40" src="https://portfolio-old-arthurcandeias-projects.vercel.app/images/hardskills/nodejs-original.svg" title="Node.js">
